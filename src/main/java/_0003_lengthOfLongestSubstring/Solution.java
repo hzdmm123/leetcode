@@ -1,6 +1,4 @@
-package _03_lengthOfLongestSubstring;
-
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package _0003_lengthOfLongestSubstring;
 
 import java.util.ArrayList;
 import java.util.HashMap;
